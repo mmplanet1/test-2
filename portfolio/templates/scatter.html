@@ -1,0 +1,55 @@
+{% load static %}
+<div class="navbar navbar-default clearfix">
+	<div class="container">
+	  <div class="navbar-header">
+	    <a href="/" class="navbar-brand">Home</a>
+	    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+	      <span class="icon-bar"></span>
+	      <span class="icon-bar"></span>
+	      <span class="icon-bar"></span>
+	    </button>
+	  </div>
+	  <div class="navbar-collapse collapse" id="navbar-main">
+	    <ul class="nav navbar-nav">
+	    	<li class="active">
+	        	<a href="/graph/scatter-plot">Scatter Plot</a>
+	      	</li>
+	      	<li>
+	        	<a href="/graph/line">Line Graph</a>
+	      	</li>
+	    </ul>
+
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+      <div class="col-lg-12">
+      	<div class="col-lg-4">
+      		<form action="/graph/generate/data/" id="scatter-form" method="post">{% csrf_token %}
+				<div class="form-group">
+		    		<label for="min">Min: </label>
+		    		<input class="form-control" id="min" type="number" name="min">
+		    	</div>
+		    	<div class="form-group">
+		    		<label for="max">Max: </label>
+		    		<input class="form-control" id="max" type="number" name="max">
+		    	</div>
+		    	<div class="form-group">
+		    		<label for="graph_title">Graph Title</label>
+		    		<input class="form-control" id="graph_title" type="text" name="graph_title	">
+		    	</div>
+		    	<input type="submit" value="Generate">
+			</form>
+      	</div>
+		<div id="scatter"></div>
+
+      </div>
+    </div>
+</div>
+<link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+<script src="{% static 'js/jquery2.1.3.js' %}"></script>
+<script src="{% static 'js/highcharts.js' %}"></script>
+<script>var csrftoken = '{{csrf_token}}';</script>
+<script src="{% static 'js/main.js' %}"></script>

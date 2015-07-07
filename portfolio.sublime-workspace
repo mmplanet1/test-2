@@ -1,0 +1,566 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"clic",
+				"clicksData"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "portfolio/posthandler/views.py",
+			"settings":
+			{
+				"buffer_size": 694,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "portfolio/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "portfolio/portfolio/urls.py",
+			"settings":
+			{
+				"buffer_size": 1454,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "portfolio/portfolio/settings.py",
+			"settings":
+			{
+				"buffer_size": 2700,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "portfolio/posthandler/models.py",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/Python/portfolio/portfolio/portfolio",
+		"/C/xampp/htdocs/Python/portfolio/portfolio/portfolio/posthandler",
+		"/C/xampp/htdocs/Python/portfolio/portfolio/portfolio/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/Even-faster-results 2.html",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/Even-faster-results.html",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/redirect.php",
+		"/C/xampp/htdocs/Python/portfolio/portfolio/portfolio/posthandler/graph/urls.py",
+		"/C/xampp/htdocs/Python/portfolio/portfolio/portfolio/templates/home.html",
+		"/C/xampp/htdocs/Python/portfolio/portfolio/portfolio/templates/scatter.html",
+		"/C/xampp/htdocs/Python/portfolio/portfolio/Lib/site-packages/django/contrib/admin/templates/home.html",
+		"/C/xampp/htdocs/Python/portfolio/portfolio/portfolio/posthandler/templates/home.html",
+		"/C/Python34/Lib/site-packages/django/bin/django-admin.py",
+		"/C/Users/Home/Downloads/sites.xml",
+		"/C/xampp/htdocs/Python/test2/tryDjango/src/settings.py",
+		"/C/xampp/htdocs/Python/test2/tryDjango/src/profiles/models.py",
+		"/C/xampp/htdocs/Python/test2/tryDjango/src/profiles/__init__.py",
+		"/C/xampp/htdocs/Python/test1/test1.py",
+		"/C/xampp/htdocs/Python/test2/.htaccess",
+		"/C/xampp/htdocs/Python/test2/index.py",
+		"/C/xampp/htdocs/Python/test2/test2.py",
+		"/C/xampp/htdocs/Python/test1/log.txt",
+		"/C/xampp/htdocs/Python/index.py",
+		"/C/xampp/htdocs/Python/.htaccess",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/.htaccess 2",
+		"/C/Users/Home/Desktop/Invata Acum Sa Faci Bani cu Sistemul ThePirateTrader.Ro.html",
+		"/C/xampp/htdocs/WP/wp-content/plugins/hello.php",
+		"/C/xampp/htdocs/WP/wp-content/plugins/location/location/index.php",
+		"/C/xampp/htdocs/WP/wp-content/plugins/location/location/includes/config.php",
+		"/C/xampp/htdocs/WP/wp-content/plugins/location/location.php",
+		"/C/xampp/htdocs/WP/wp-content/plugins/known issues and instructions.txt",
+		"/C/xampp/htdocs/WP/wp-content/plugins/location/location/js/app.js",
+		"/C/xampp/htdocs/WP/wp-content/plugins/location/location/tableConstruct/index.php",
+		"/C/xampp/htdocs/WP/wp-content/plugins/location/location/includes/ajax.php",
+		"/C/xampp/htdocs/WP/wp-content/plugins/location/content.php",
+		"/C/xampp/htdocs/WP/wp-content/plugins/location/d.php",
+		"/C/xampp/htdocs/WP/wp-content/plugins/location/old.php",
+		"/C/xampp/htdocs/WP/wp-content/themes/twentyfifteen/location-search.php",
+		"/C/Users/Home/AppData/Local/PokerStars.EU/HandHistory/mmplanet/HH20150628 T1263953348 No Limit Hold'em $0.93 + $0.07.txt",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/affiliates.php",
+		"/C/xampp/htdocs/BadgeBuyBeta/index.php",
+		"/C/Users/Home/AppData/Local/PokerStars.EU/HandHistory/mmplanet/HH20150628 T1263953456 No Limit Hold'em $0.93 + $0.07.txt",
+		"/C/xampp/htdocs/WP/wp-content/plugins/wpplugin/wpplugin.php",
+		"/C/xampp/htdocs/Python/cgi-bin/index.py",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/test.py",
+		"/C/Users/Home/Desktop/facebook-sdk-master/facebook-sdk-master/facebook/__init__.py",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/index.py",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/robots.txt",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/main-config.php",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Program Files/Construct 2/c2license.txt",
+		"/C/xampp/htdocs/clientResponse/admin/login.php",
+		"/C/Users/Home/Desktop/codecanyon-3797780-clientresponse-responsive-php-client-management (1)/changelog.txt",
+		"/C/Users/Home/Desktop/codecanyon-3797780-clientresponse-responsive-php-client-management (1)/clientResponse/admin/activate.php",
+		"/C/xampp/htdocs/tracker/main/assets/php/core/core-ajax.php",
+		"/C/xampp/htdocs/tracker/main/index.php",
+		"/C/xampp/htdocs/tracker/index.php",
+		"/C/xampp/htdocs/tracker/app/fetch/index.php",
+		"/C/xampp/htdocs/tracker/app/index.php",
+		"/C/xampp/htdocs/panel/assets/js/app.js",
+		"/C/xampp/htdocs/WP/wp-content/themes/twentyfifteen/style.php",
+		"/C/Users/Home/Desktop/Slicing Test/Slicing Test/index.html",
+		"/C/Users/Home/Desktop/Slicing Test/Slicing Test/js/app.js",
+		"/C/Users/Home/Desktop/Slicing Test/Slicing Test/css/style.css",
+		"/C/xampp/htdocs/php/test2/js/app.js",
+		"/C/xampp/htdocs/WP/wp-config.php",
+		"/C/xampp/htdocs/wpplugin/wpplugin.php",
+		"/C/xampp/htdocs/php/test2/index.php",
+		"/C/xampp/htdocs/php/test2/includes/config.php",
+		"/C/Users/Home/Desktop/ConradLog.txt",
+		"/C/Users/Home/Desktop/cacat.txt",
+		"/C/Users/Home/Desktop/ConradLog",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/cajax.php",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/badgebuy.class.php",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/facebook.php",
+		"/C/Users/Home/Desktop/Pagination/Pagination/pagination.php",
+		"/C/xampp/htdocs/Pagination/db.php",
+		"/C/Users/Home/Desktop/plm.css",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/manage.blade.php",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/measure.blade.php",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/manage.blade 2.php",
+		"/C/xampp/htdocs/panel/update/assets/php/core/core-config.php",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/maker.blade.php",
+		"/C/xampp/htdocs/panel/update/assets/views/campaigns.php",
+		"/C/xampp/htdocs/panel/update/index.php",
+		"/C/xampp/htdocs/panel/update/dashboard.php",
+		"/C/Users/Home/Desktop/plm",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/index 2.html",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/index 4.html",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/index 5.html",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/index 3.html",
+		"/C/Users/Home/AppData/Roaming/Skype/My Skype Received Files/sites.xml",
+		"/C/xampp/htdocs/tracker/app/core-init.php",
+		"/C/xampp/htdocs/tracker/app/core-ajax.php",
+		"/C/xampp/htdocs/tracker/app/core-config.php",
+		"/C/xampp/htdocs/tracker/app/core-functions.php",
+		"/C/Users/Home/AppData/Local/Temp/Rar$DIa0.299/ts_config.php",
+		"/C/Users/Home/AppData/Local/Temp/fz3temp-1/core-config.php",
+		"/C/xampp/htdocs/panel/index.php",
+		"/C/Users/Home/Desktop/Highcharts-4.1.5/examples/line-labels/index.htm",
+		"/C/xampp/htdocs/panel/assets/css/style.css",
+		"/C/xampp/htdocs/panel/assets/php/core/core-ajax.php",
+		"/C/xampp/htdocs/panel/dashboard.php",
+		"/C/xampp/htdocs/panel/update/assets/js/calendar-app.js",
+		"/C/Users/Home/Desktop/Highcharts-4.1.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/css/demo.css",
+		"/C/Users/Home/Downloads/cod.html",
+		"/C/Users/Home/Downloads/cacat.html",
+		"/C/xampp/htdocs/panel/HTML/assets/css/style.css",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/phpMyAdmin/setup/config.php",
+		"/C/xampp/htdocs/panel/update/assets/php/core/core-ajax.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"buyupsel",
+			"click",
+			"footer",
+			"$",
+			"logout",
+			"assets",
+			"-*-\n",
+			"980",
+			"facebook",
+			"bajax",
+			"ajax",
+			"bajax",
+			"<script>\n(function(i,s,o,g,r,a,m){i['EngPxlObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=0;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','//ext1.engageya.com/widget/eng_pxl.js?pxls=165501#0','engPxl');\n</script>",
+			"(window,document,'script','//ext1.engageya.com/widget/eng_pxl.js?pxls=165500#2000','engPxl');",
+			"<script>\n(function(i,s,o,g,r,a,m){i['EngPxlObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=0;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','//ext1.engageya.com/widget/eng_pxl.js?pxls=165500#2000','engPxl');\n</script>",
+			"<script>\n(function(i,s,o,g,r,a,m){i['EngPxlObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=0;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','//ext1.engageya.com/widget/eng_pxl.js?pxls=165500#2000','engPxl');\n</script>\n",
+			"container",
+			"jquery",
+			"grap",
+			"go",
+			"top"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jQuery",
+			"template"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\Python\\portfolio\\portfolio\\portfolio"
+		},
+		{
+			"path": "C:\\Users\\Home\\AppData\\Local\\Temp\\fz3-14362073308200"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "portfolio/posthandler/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								527,
+								527
+							],
+							[
+								570,
+								570
+							],
+							[
+								571,
+								571
+							],
+							[
+								593,
+								593
+							],
+							[
+								634,
+								634
+							],
+							[
+								635,
+								635
+							],
+							[
+								654,
+								654
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "portfolio/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "portfolio/portfolio/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1453,
+								1453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "portfolio/portfolio/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1085,
+								1085
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "portfolio/posthandler/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
